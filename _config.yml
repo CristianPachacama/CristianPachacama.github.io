@@ -3,16 +3,16 @@ description: Blog de Información Académica y Profesional
 author: Cristian Pachacama
 logo: /static/img/avatar.png
 github: https://github.com/ashutosh2k12
-about: Freelance developer
+about: Ingeniero Matemático (Estadística, Investigación de Operaciones)
 
 baseurl: ""
 url: "http://aboutashu.com/hcz-jekyll-blog"
 
-disqus_shortname: aboutashu
+disqus_shortname: CristianPachacama
 google_analytics: UA-72862926-1
 
 share:
-  twitter_username: \#
+  twitter_username: \#CristianDavidPS
   fb_appid: 000000000000
 
 
