@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Introducción
-Este blog contiene una variedad de publicaciones relacionadas a una variedad de temas relacionados al Análisis de Datos, entre ellos la estadística (teórica y aplicada), guias para el uso software como R, Matlab, PowerBI, además de mostrar algunos consejos trucos y novedades.
+Este blog contiene una variedad de publicaciones relacionadas a una variedad de temas relacionados al Análisis de Datos, entre ellos la estadística (teórica y aplicada), guias para el uso de software como R, Matlab, PowerBI, además de mostrar algunos consejos trucos y novedades.
 
 ### Objetivo
 El objetivo de este blog es crear interés de la comunidad académica (Informáticos, Estadísticos, Matemáticos y afines) por el Análisis de Datos en el Ecuador, esto atravez del intercambio de experiencias en esta rama de estudio. Además busca intercambiar conocimientos en un area que apenas se está desarrollando en el país, conocida como por sus siglas en Inglés como KDD que significa 'Descubrimiento de Conocimiento en Base de Datos' y  es principal objeto de estudio del Análisis de Datos.
@@ -25,11 +25,14 @@ El científico de datos es una nueva profesión que hoy es considerada clave en 
 
 Es el proceso no trivial de identificación en los datos de patrones válidos, nuevos, potencialmente útiles y a la final comprensibles.
 El conocimiento extraído debe cumplir las siguientes propiedades:
+
 + Válido
 + Novedoso
 + Potencialmente útil
 + Comprensible
+
 Este proceso consta de varias etápas, mismas que resumimos en el siguiente esquema:
+
 ![alt text](https://github.com/CristianPachacama/CristianPachacama.github.io/blob/master/kdd.png "Proceso KDD")
 
 ### ¿Que es la mineria de Datos (DataMining)?
