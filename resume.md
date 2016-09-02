@@ -2,6 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
+theme: united
 ---
 
 Cristian Pachacama
