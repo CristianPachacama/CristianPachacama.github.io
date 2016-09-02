@@ -15,13 +15,13 @@ MyCountry                           1800 my-phone-nr
 
 Education
 ---------
-<p>
+
 2012-2017 (expected)
 :   **Ingenieria Matemática**; Escuela Politécnica Nacional (Quito-EC)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
-</p>
+
 Experience
 ----------
 
