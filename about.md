@@ -8,7 +8,7 @@ permalink: /about/
 Este blog contiene una variedad de publicaciones relacionadas a una variedad de temas relacionados al Análisis de Datos, entre ellos la estadística (teórica y aplicada), guias para el uso de software como R, Matlab, PowerBI, además de mostrar algunos consejos trucos y novedades.
 
 ## Objetivo
-El objetivo de este blog es crear interés de la comunidad académica (Informáticos, Estadísticos, Matemáticos y afines) por el Análisis de Datos en el Ecuador, esto atravez del intercambio de experiencias en esta rama de estudio. Además busca intercambiar conocimientos en un area que apenas se está desarrollando en el país, conocida como por sus siglas en Inglés como KDD que significa 'Descubrimiento de Conocimiento en Base de Datos' y  es principal objeto de estudio del Análisis de Datos.
+El objetivo de este blog es crear interés de la comunidad académica (Informáticos, Estadísticos, Matemáticos y afines) por el Análisis de Datos en el Ecuador, esto atravez del intercambio de experiencias en esta rama de estudio. Además busca intercambiar conocimientos en un area que apenas se está desarrollando en el país, conocida como por sus siglas en Inglés como KDD que significa 'Descubrimiento de Conocimiento en Base de Datos' que es principal objeto de estudio del Análisis de Datos.
 
 ---
 
