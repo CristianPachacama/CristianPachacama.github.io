@@ -26,7 +26,7 @@ El conocimiento extraído debe cumplir las siguientes propiedades:
 +Potencialmente útil
 +Comprensible
 Este proceso consta de varias etápas, mismas que resumimos en el siguiente esquema:
-![alt text](https://github.com/CristianPachacama/CristianPachacama.github.io/kdd.png)
+![alt text](https://github.com/CristianPachacama/CristianPachacama.github.io/kdd.png "Proceso KDD")
 
 ### ¿Que es la mineria de Datos (DataMining)?
 La minería de datos (proceso que es parte de la metodología KDD) es un término genérico que engloba resultados de investigación, técnicas y herramientas usadas para extraer información útil de grandes bases de datos
