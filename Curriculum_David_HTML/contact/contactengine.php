@@ -3,13 +3,13 @@
 // CHANGE THE VARIABLES BELOW
 
 $EmailFrom = "yourmail@mail.com";
-$EmailTo = "yourmail@mail.com";
+$EmailTo = "cristian.pachacama01@gmail.com";
 $Subject = "Contact Form Submission";
 
-$Name = Trim(stripslashes($_POST['Name'])); 
-$Tel = Trim(stripslashes($_POST['Tel'])); 
-$Email = Trim(stripslashes($_POST['Email'])); 
-$Message = Trim(stripslashes($_POST['Message'])); 
+$Name = Trim(stripslashes($_POST['Name']));
+$Tel = Trim(stripslashes($_POST['Tel']));
+$Email = Trim(stripslashes($_POST['Email']));
+$Message = Trim(stripslashes($_POST['Message']));
 
 // prepare email body text
 $Body = "";
@@ -26,7 +26,7 @@ $Body .= "Message: ";
 $Body .= $Message;
 $Body .= "\n";
 
-// send email 
+// send email
 $success = mail($EmailTo, $Subject, $Body, "From: <$EmailFrom>");
 
 // redirect to success page
